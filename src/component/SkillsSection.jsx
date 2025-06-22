@@ -7,9 +7,8 @@ import { cn } from "../lib/utils"
         {name: "HTML/CSS", level: 95, category:"frontend"},
          {name: "JavaScript", level: 95, category:"frontend"},
           {name: "React", level: 95, category:"frontend"},
-           {name: "TypeScript", level: 70, category:"frontend"},
             {name: "TailwindCss", level: 68, category:"frontend"},
-             {name: "Next.js", level: 50, category:"frontend"},
+             {name: "Next.js", level: 30, category:"frontend"},
                
         
 

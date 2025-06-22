@@ -13,10 +13,10 @@ const HeroSection = () => {
             </h1>
 
             <p className='text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3'> 
-              Mr Employer, i hope you find because i can provide anything you need as a Software Developer,a 
-              little bit arrogant right? i know. It takes a lot to acquire the skills i posses and with my TeamSpirit and co-operation i would be fit
-              to build Project and learn more about you
-              ,but for now the the website is yours
+               A passionate front-end developer crafting responsive, accessible, and performance-driven websites. I
+                turn ideas into interactive digital experiences using modern tools like React, Tailwind CSS, and more.
+               With a strong eye for design and detail, I build intuitive interfaces that not only look good — but feel right.
+                Whether it's a startup landing page or a dynamic web app, I focus on clean code, smooth UX, and scalable solutions.
             </p>
              <div className='opacity-0 pt-4 animate-fade-in-delay-4'>
               <a href="#projects" className='cosmic-button'>View my work</a>
